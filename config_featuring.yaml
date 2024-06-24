@@ -1,0 +1,13 @@
+databases:
+  - "mafaulda_sound"
+
+camsd_folder: "."
+
+output_feature_folder: "./mafaulda_mel_50k_n" # Only the path, the name is provided hardcoded
+
+feature_extraction_parameters:
+  stft_window_size: 4096
+  stft_hop_size: 2048
+  mel_bins: 128
+  frame_stack_size: 20
+  frame_hop_size: 2

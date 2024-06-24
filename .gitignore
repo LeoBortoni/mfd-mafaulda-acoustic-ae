@@ -1,0 +1,9 @@
+*.csv
+*.txt
+*.json
+*.pdf
+*.pyc
+*.bortoni
+*.pt
+*.bin
+*.fbin
